@@ -1,0 +1,2 @@
+INSERT INTO USER (NAME, BIRTH, COUNTRY) VALUES
+    ('Robin', to_date('21-04-1998', 'DD-MM-YYYY'), 'FRA');
